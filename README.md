@@ -1,8 +1,4 @@
-# Quantum Chaos in Quantum Mechanics 🌌⚛️
-
-Research exploring the connection between classical chaos theory and quantum mechanics principles by constructing a 2D quantum system with a potential simulating a black hole.
-
----
+# Chaos Theory in Quantum Mechanics 🌌⚛️
 
 ## 📌 Overview & Methodology
 
